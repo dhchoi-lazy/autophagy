@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/autophagy/static/css/main.bb62aa7a.css",
+    "main.js": "/autophagy/static/js/main.0e77c31b.js",
+    "static/js/331.faff2540.chunk.js": "/autophagy/static/js/331.faff2540.chunk.js",
+    "static/js/479.0b017000.chunk.js": "/autophagy/static/js/479.0b017000.chunk.js",
+    "index.html": "/autophagy/index.html",
+    "main.bb62aa7a.css.map": "/autophagy/static/css/main.bb62aa7a.css.map",
+    "main.0e77c31b.js.map": "/autophagy/static/js/main.0e77c31b.js.map",
+    "331.faff2540.chunk.js.map": "/autophagy/static/js/331.faff2540.chunk.js.map",
+    "479.0b017000.chunk.js.map": "/autophagy/static/js/479.0b017000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb62aa7a.css",
+    "static/js/main.0e77c31b.js"
+  ]
+}
